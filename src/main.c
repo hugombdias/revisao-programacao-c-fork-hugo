@@ -10,5 +10,6 @@ int main(void) {
     sensor_adicionar_leitura(&sensor, 126.0);
 
     exibir_relatorio(&sensor);
+    
     return 0;
 }

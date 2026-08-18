@@ -4,7 +4,7 @@
 #include <stdlib.h>
 
 double celsius_para_fahrenheit(double temperatura) {
-    return temperatura * 9.0 / 5.0 + 32.0;
+    return temperatura * 9.0/5.0 + 32.0;
 }
 
 bool leitura_valida(double valor) {
